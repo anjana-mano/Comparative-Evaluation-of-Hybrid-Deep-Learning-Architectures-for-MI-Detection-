@@ -1,0 +1,2 @@
+# Comparative-Evaluation-of-Hybrid-Deep-Learning-Architectures-for-MI-Detection-
+Comparative study of deep learning architectures for Myocardial Infarction (MI) classification using raw and denoised ECG signals. The project includes ECG signal preprocessing, denoising, and performance comparison of CNN-BiLSTM, CNN-BiGRU, and CNN-Positional Encoding-Transformer models using the MIMIC-IV 1.0 ECG dataset.

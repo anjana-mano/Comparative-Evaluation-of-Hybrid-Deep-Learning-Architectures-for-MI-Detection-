@@ -1,1 +1,1 @@
-
+This folder contains the results of the ECG preprocessing and filtering experiments performed during the study. Different preprocessing approaches were evaluated individually as part of an ablation study to examine their effect on classification performance. Different band-pass cut-off frequency settings were also tested and compared to identify the most suitable filtering configuration.
